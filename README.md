@@ -35,6 +35,6 @@ Goodbye.
 Contains the following 
 
 * depth-first and breadth-first algorithms
-*2 Dijkstra algorithm
-*3 Implement the Dijkstra algorithm given edges and vertices files
+* Dijkstra algorithm
+* Implement the Dijkstra algorithm given edges and vertices files
 
