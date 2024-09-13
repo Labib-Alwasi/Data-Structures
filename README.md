@@ -9,7 +9,12 @@ This repository demonstrates coding with data structures.
 Implements DJB2 hash algorithm and double hashing
 
 ### Sorting Linked Lists
-searches a given dataset with selection, insertion and quick sort algoirthms
+searches a given dataset with following algorithms:
+
+* selection
+* insertion
+* quick sort
+
 ### Search Tree
 Reads in a sample text and organises text into a search tree. 
 ```
