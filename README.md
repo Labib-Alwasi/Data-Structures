@@ -6,13 +6,12 @@ This repository demonstrates coding with data structures.
 
 ### Hash Tables
 
-```
-hash tables
-```
+Implements DJB2 hash algorithm and double hashing
 
 ### Sorting Linked Lists
 searches a given dataset with selection, insertion and quick sort algoirthms
 ### Search Tree
+Reads in a sample text and organises text into a search tree. 
 ```
 > g++ main.cpp node.hpp node.cpp  -o main           
 > .\main
@@ -33,7 +32,9 @@ Please enter the word you wish to check:
 Goodbye.
 ```
 ### Graph Search
-```
-testing
-```
+Contains the following 
+
+#1 depth-first and breadth-first algorithms
+#2 Dijkstra algorithm
+#3 Implement the Dijkstra algorithm given edges and vertices files
 
