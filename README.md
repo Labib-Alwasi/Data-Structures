@@ -7,11 +7,19 @@ This repository demonstrates coding with data structures.
 ### Code 1
 
 ```
-testing
+hash tables
 ```
 
 ### Code 2
+```
+sorting
+```
 ### Code 3
+```
+testing
+```
 ### Code 4
-
+```
+testing
+```
 
