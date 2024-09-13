@@ -34,7 +34,7 @@ Goodbye.
 ### Graph Search
 Contains the following 
 
-#1 depth-first and breadth-first algorithms
-#2 Dijkstra algorithm
-#3 Implement the Dijkstra algorithm given edges and vertices files
+* depth-first and breadth-first algorithms
+*2 Dijkstra algorithm
+*3 Implement the Dijkstra algorithm given edges and vertices files
 
